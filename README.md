@@ -1,4 +1,4 @@
-# hoggedarock
+# hoggedaguard
 
 ## Agent Rules
 - Use `pnpm` for installing dependencies, running scripts, and any task that touches the package manager. (Example: `pnpm install`, `pnpm dev`.)

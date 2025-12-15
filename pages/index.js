@@ -16,16 +16,16 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>hoggedarock.com | Hog Line Hotline</title>
+        <title>hoggedaguard.com | Hog Line Hotline</title>
         <meta
           name="description"
-          content="Hogged a rock again? hoggedarock.com has gentle roast, hotline and a curling intervention kit for serial hoggers."
+          content="Hogged a rock again? hoggedaguard.com has gentle roast, hotline and a curling intervention kit for serial hoggers."
         />
       </Head>
       <main className="page">
         <section className="hero">
           <div className="hero-copy">
-            <p className="domain">hoggedarock.com</p>
+            <p className="domain">hoggedaguard.com</p>
             <h1>
               Friendly reminder: you hogged the rock. Again. The whole team knows, so we made a website.
             </h1>
